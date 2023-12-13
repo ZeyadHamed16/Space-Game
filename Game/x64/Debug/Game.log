@@ -1,0 +1,16 @@
+﻿  Game.cpp
+D:\Programming\Github\C++\Game\Game\Game.cpp(152,74): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Programming\Github\C++\Game\Game\Game.cpp(152,74): warning C4244:         with
+D:\Programming\Github\C++\Game\Game\Game.cpp(152,74): warning C4244:         [
+D:\Programming\Github\C++\Game\Game\Game.cpp(152,74): warning C4244:             T=int
+D:\Programming\Github\C++\Game\Game\Game.cpp(152,74): warning C4244:         ]
+  (compiling source file '/Game.cpp')
+  
+D:\Programming\Github\C++\Game\Game\Game.cpp(152,47): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Programming\Github\C++\Game\Game\Game.cpp(152,47): warning C4244:         with
+D:\Programming\Github\C++\Game\Game\Game.cpp(152,47): warning C4244:         [
+D:\Programming\Github\C++\Game\Game\Game.cpp(152,47): warning C4244:             T=int
+D:\Programming\Github\C++\Game\Game\Game.cpp(152,47): warning C4244:         ]
+  (compiling source file '/Game.cpp')
+  
+  Game.vcxproj -> D:\Programming\Github\C++\Game\x64\Debug\Game.exe
